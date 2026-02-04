@@ -1,4 +1,5 @@
-## Hi there 👋
+Hi there 👋 I'm Priyanka Naidoo
+BComp Student at Belgium iTversity
 
 <!--
 **PriyankaNaidoo/PriyankaNaidoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
