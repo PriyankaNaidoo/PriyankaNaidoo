@@ -1,5 +1,5 @@
 Hi there 👋 I'm Priyanka Naidoo
-BComp Student at Belgium iTversity
+<p>BComp Student at Belgium iTversity</p>
 
 <!--
 **PriyankaNaidoo/PriyankaNaidoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
